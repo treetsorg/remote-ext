@@ -5,6 +5,6 @@
 namespace remote {
     //% block
     export function test(): void {
-        tools.log("test() from bundled extension");
+        tools.log("test() from remote extension");
     }
 }
