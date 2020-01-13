@@ -1,0 +1,19 @@
+{
+    "name": "github-ext",
+    "version": "0.0.0",
+    "description": "Github test extension",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "motion": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
